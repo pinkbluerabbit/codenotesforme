@@ -48,7 +48,7 @@ features:
     icon: 😎
   - title: 工具箱
     details: 有关提升效率的一些
-    link: /tools/vscode_shortcuts
+    link: /tools/vscode_shrotcuts
     icon: 🧰
   - title: 应用中
     details: 有关实际应用的点点
