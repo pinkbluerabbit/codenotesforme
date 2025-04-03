@@ -26,7 +26,7 @@ hero:
       text: 应用
       link: /applications/modular_packge
   image:
-    src:  /codenotesforme/search.png # 图片路径
+    src: /search.png # 图片路径
     alt: "图片描述"  # 图片的替代文本
 
 features:
