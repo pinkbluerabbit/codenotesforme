@@ -6,6 +6,9 @@ export default defineConfig({
   title: "codenote",
   description: "code note for vue",
   base:'/codenotesforme/',
+  build: {
+    outDir: 'docs/.vitepress/dist'
+  },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
